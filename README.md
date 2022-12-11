@@ -12,7 +12,7 @@ Skills: <img src="{(https://www.python.org/)}" /> / CSS / JS / Python / django/ 
 - ⚡ Fun fact: I love to watch movies,series and Travel  
 
 ### Skills
-<img src="{(https://www.python.org/)}"
+![image]({(https://www.python.org/)})
 
 
 
