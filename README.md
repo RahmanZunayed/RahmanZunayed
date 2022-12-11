@@ -11,7 +11,8 @@ Skills: <img src="{(https://www.python.org/)}" /> / CSS / JS / Python / django/ 
 - 📫 How to reach me: zunayeds56@gmail.com 
 - ⚡ Fun fact: I love to watch movies,series and Travel  
 
-
+### Skills
+<img src="{(https://www.python.org/)}"
 
 
 
