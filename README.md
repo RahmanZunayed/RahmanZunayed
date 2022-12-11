@@ -1,8 +1,8 @@
-### Hi there 👋,I'm Zunayed Rahman
+### Hi there 👋, I'm Zunayed Rahman
 I am Zunayed. I am currently studying CSE at United International University.
 
-### Example
- <img src="https://github.com/RahmanZunayed/RahmanZunayed/blob/main/jump%20on%20it.gif" width="256" />
+
+ <img src="https://github.com/RahmanZunayed/RahmanZunayed/blob/main/jump%20on%20it.gif" width="400" />
 
 Skills: HTML / CSS / JS / Python / django/ C / C++ / 8086 Assembly
 
