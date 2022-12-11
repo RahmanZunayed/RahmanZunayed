@@ -4,7 +4,7 @@ I am Zunayed. I am currently studying CSE at United International University.
 
 <img src="https://github.com/RahmanZunayed/RahmanZunayed/blob/main/jump%20on%20it.gif" width="400" />
 
-Skills: HTML / CSS / JS / Python / django/ C / C++ / 8086 Assembly
+Skills: <img src="{(https://www.python.org/)}" /> / CSS / JS / Python / django/ C / C++ / 8086 Assembly
 
 - 🔭 I’m currently working on My own website. 
 - 🌱 I’m currently learning Python with django 
@@ -12,7 +12,6 @@ Skills: HTML / CSS / JS / Python / django/ C / C++ / 8086 Assembly
 - ⚡ Fun fact: I love to watch movies,series and Travel  
 
 
-(https://github-readme-stats.vercel.app/api?username=RahmanZunayed=true&theme=radical)
 
 
 
