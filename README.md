@@ -4,15 +4,14 @@ I am Zunayed. I am currently studying CSE at United International University.
 
 <img src="https://github.com/RahmanZunayed/RahmanZunayed/blob/main/jump%20on%20it.gif" width="400" />
 
-Skills: <img src="{(https://www.python.org/)}" /> / CSS / JS / Python / django/ C / C++ / 8086 Assembly
+Skills: Python / CSS / JS / Python / django/ C / C++ / 8086 Assembly
 
 - 🔭 I’m currently working on My own website. 
 - 🌱 I’m currently learning Python with django 
 - 📫 How to reach me: zunayeds56@gmail.com 
 - ⚡ Fun fact: I love to watch movies,series and Travel  
 
-### Skills
-![image]({(https://www.python.org/)})
+
 
 
 
